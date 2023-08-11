@@ -5,3 +5,12 @@
 </p>
 
 # Downloads
+
+# Docs
+
+# Links
+- [Official SBM Support Guild](https://discord.gg/2Ss44CZdvv)
+
+- [SBM Itch.io page](https://ratwashere.itch.io/studio-bot-maker)
+
+- [SBM bug report](https://github.com/RatWasHere/Studio-Bot-Maker/issues/new?assignees=RatWasHere&labels=&projects=&template=bug-report.md&title=Bug%21)
